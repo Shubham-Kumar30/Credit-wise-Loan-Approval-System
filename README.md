@@ -1,2 +1,5 @@
 # Credit-wise-Loan-Approval-System
-This is a supervised machine learning project in which I have used Logistic Regression, Naive Bayes and KNN Algorithms to predict which among them would have the best Precision and Recall score
+
+This is a supervised machine learning project in which I have used Logistic Regression, Naive Bayes and KNN Algorithms to predict which among them would have the best Precision and Recall score.
+
+Implemented Binary Classification alongwith EDA, feature engineering and model evaluation.
